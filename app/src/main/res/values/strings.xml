@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Todo List</string>
+    <string name="task">Tarefas</string>
+    <string name="addtask">Adicionar Tarefa</string>
+</resources>
