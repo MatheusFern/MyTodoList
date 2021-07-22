@@ -1,5 +1,5 @@
 # MyTodoList
-Um classico projeto de aplicativo de To Do List feito para demostrar os conhecimentos adquiridos no BootCamp do Santander.
+##Um classico projeto de aplicativo de To Do List feito para demostrar os conhecimentos adquiridos no BootCamp do Santander.
 
 ideias para implementar:
 - [x]: 1 - Adicionar um design diferente ao App.
