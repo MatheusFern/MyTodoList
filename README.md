@@ -9,7 +9,7 @@ ideias para implementar:
 
 Descrição
 
-1 - O App inicial é bem feito do ponto de vista do design mas eu queria deixar um pouco mais com a minha cara.
-2 - Os campos de data e hora estão como se fosse campos de texto convertidos para componentes de uso gera um certo ruido visual na hora do uso.
-3 - Caso o App seja finalizado os dados não sejam perdido. 
-4 - Usar notificações para implementar uma funcionalidade de uso continuo do app.
+- 1 - O App inicial é bem feito do ponto de vista do design mas eu queria deixar um pouco mais com a minha cara.
+- 2 - Os campos de data e hora estão como se fosse campos de texto convertidos para componentes de uso gera um certo ruido visual na hora do uso.
+- 3 - Caso o App seja finalizado os dados não sejam perdido. 
+- 4 - Usar notificações para implementar uma funcionalidade de uso continuo do app.
